@@ -2,7 +2,7 @@
 
 Templates rendering plugin support for hapi.js.
 
-[![Build Status](https://travis-ci.org/hapijs/vision.svg)](http://travis-ci.org/hapijs/vision) [![Coverage Status](https://coveralls.io/repos/github/hapijs/vision/badge.svg?branch=master)](https://coveralls.io/github/hapijs/vision?branch=master)
+[![Build Status](https://travis-ci.org/hapijs/vision.svg)](http://travis-ci.org/hapijs/vision) [![Coverage Status](https://coveralls.io/repos/github/hapijs/vision/badge.svg?branch=master)](https://coveralls.io/github/hapijs/vision?branch=master) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/hapijs--vision.svg)](https://www.staging.guardrails.io)
 
 Lead Maintainer - [William Woodruff](https://github.com/wswoodruff)
 
